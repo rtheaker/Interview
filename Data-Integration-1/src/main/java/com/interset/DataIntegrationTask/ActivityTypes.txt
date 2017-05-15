@@ -1,0 +1,7 @@
+createdDoc
+addedText
+changedText
+deletedDoc
+deletedText
+archived
+viewDoc
