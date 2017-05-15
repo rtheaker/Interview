@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 public class TaskRunner {
 
     public static void main(String args[]) {
-
+        // test
         // Check arguments
         if (args.length != 2) {
             System.out.println("We currently only expect 2 arguments! A path to a JSON file to read, and a path for a CSV file to write.");
